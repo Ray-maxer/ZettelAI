@@ -1,0 +1,5 @@
+{
+  "name": "ZettelAI",
+  "description": "AI-powered Zettelkasten knowledge management system with camera and file upload support.",
+  "requestFramePermissions": ["camera"]
+}
